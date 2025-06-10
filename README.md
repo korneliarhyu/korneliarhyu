@@ -47,3 +47,13 @@
 </div>
 
 ###
+
+<h3 align="left">🔗 My Portfolio</h3>
+
+<div align="left">
+  <a href="https://drive.google.com/file/d/1FxNTtwQKA64GgQqTS3yK-8ofPFR_92Wq/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Lihat%20Portofolio-Merah%20Muda?style=for-the-badge&logo=google-drive&logoColor=white&color=FF69B4" alt="Lihat Portofolio Saya">
+  </a>
+</div>
+
+###
